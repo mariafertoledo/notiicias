@@ -1,0 +1,30 @@
+.bg-blue {
+    background-color: #27374D;
+    color: #fff;
+}
+
+.btn-blue {
+    background-color: #526D82;
+    border-color: #526D82;
+}
+
+.bg-gradient {
+    background: linear-gradient(90deg, #4e54c8 0%, #8f94fb 100%);
+    color: #fff;
+}
+
+.btn-gradient {
+    background: linear-gradient(90deg, #4e54c8 0%, #8f94fb 100%);
+    border-color: #4e54c8;
+    color: #fff;
+}
+
+.custom-link {
+    color: #fff; 
+}
+.custom-link:hover {
+    color: #BED7DC; 
+}
+
+
+
